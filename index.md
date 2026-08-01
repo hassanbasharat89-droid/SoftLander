@@ -1,8 +1,3 @@
-<div align="center">
-
-# SoftLander Game
-
-</div>
 # Privacy Policy
 
 This privacy policy is applicable to the SoftLander app for mobile devices, together with any related services operated by devusama (collectively, the "Application"). devusama is hereinafter referred to as the "Service Provider".
