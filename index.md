@@ -6,7 +6,7 @@ This privacy policy is applicable to the SoftLander app for mobile devices, toge
 devusama acts as the Data Controller responsible for the processing of your personal data.
 * **Name:** devusama
 * **Address:** Pakistan
-* **Email:** hassanbasharat89@gmail.com
+* **Email:** devxam.studio@gmail.com 
 
 For data protection inquiries and to exercise your GDPR rights, please contact the Data Controller using the contact information above.
 
@@ -106,7 +106,7 @@ Upon verification of your identity, the Service Provider will delete your person
 ## How does the Application address children's privacy?
 The Application is not intended for children under 16 years of age, or where a higher age of digital consent is established under applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age, or where a higher age of digital consent is established by applicable law, in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (hassanbasharat89@gmail.com) so that they will be able to take the necessary actions.
+Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age, or where a higher age of digital consent is established by applicable law, in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (devxam.studio@gmail.com ) so that they will be able to take the necessary actions.
 
 ---
 
