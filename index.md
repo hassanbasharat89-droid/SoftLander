@@ -81,7 +81,7 @@ Where the GDPR applies, the Service Provider enters into Data Processing Agreeme
 ## What are my opt-out rights?
 You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-To request deletion of your personal data, withdraw consent, or exercise any of your rights, contact the Service Provider at hassanbasharat89@gmail.com.
+To request deletion of your personal data, withdraw consent, or exercise any of your rights, contact the Service Provider at devxam.studio@gmail.com.
 
 ---
 
@@ -92,12 +92,12 @@ The Service Provider retains personal data based on its necessity for the stated
 * **Aggregated and Anonymized Data:** Retained indefinitely as it no longer identifies you.
 * **Data required for legal compliance:** Retained as long as required by applicable law.
 
-You have the right to request deletion of your personal data at any time, except where retention is required by law. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at hassanbasharat89@gmail.com and they will respond within the time required by applicable law. Please note that some User Provided Data may be required in order for the Application to function properly.
+You have the right to request deletion of your personal data at any time, except where retention is required by law. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at devxam.studio@gmail.com  and they will respond within the time required by applicable law. Please note that some User Provided Data may be required in order for the Application to function properly.
 
 ---
 
 ## Data Deletion
-You can request deletion of your personal data or account by contacting the Service Provider at hassanbasharat89@gmail.com. The Service Provider will process your request within the timeframes required by applicable law.
+You can request deletion of your personal data or account by contacting the Service Provider at devxam.studio@gmail.com. The Service Provider will process your request within the timeframes required by applicable law.
 
 Upon verification of your identity, the Service Provider will delete your personal data from its systems, except where retention is required for legal compliance or legitimate business purposes.
 
