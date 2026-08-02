@@ -121,8 +121,7 @@ In the event of a personal data breach that poses a risk to your rights and free
 ## How will you be informed of changes to this Privacy Policy?
 The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at hassanbasharat89@gmail.com.
-
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at devxam.studio@gmail.com.
 * **Effective Date:** 2026-08-01
 
 ---
@@ -153,7 +152,7 @@ If you are a resident of California, the California Consumer Privacy Act (CCPA) 
 * **Right to Limit Use of Sensitive Personal Information:** You can limit the use of your sensitive personal information to essential purposes.
 * **Right to Non-Discrimination:** The Service Provider will not discriminate against you for exercising any of your CCPA/CPRA rights.
 
-To exercise any of these rights, please contact the Service Provider at hassanbasharat89@gmail.com. The Service Provider will verify your request using the information you provide and respond within the timeframes required by law. You may designate an authorized agent to make a request on your behalf.
+To exercise any of these rights, please contact the Service Provider at devxam.studio@gmail.com. The Service Provider will verify your request using the information you provide and respond within the timeframes required by law. You may designate an authorized agent to make a request on your behalf.
 
 ---
 
@@ -163,6 +162,6 @@ Where processing is based on consent, you provide that consent by affirmatively 
 ---
 
 ## How can you contact the Data Controller?
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hassanbasharat89@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at devxam.studio@gmail.com.
 
 To request deletion of your personal data or to exercise any of your rights, contact the Service Provider using the details provided above. The Service Provider will respond within one month of receiving your request, extendable by up to two months where necessary due to the complexity or volume of requests, as permitted by applicable law.
